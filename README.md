@@ -4,3 +4,4 @@ Log
 - add commit
 - Trying rebase second chance
 - try commit again again
+- try to delete branch
